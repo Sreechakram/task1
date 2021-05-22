@@ -1,0 +1,24 @@
+1. Difference between HTTP1.1 vs HTTP2?
+-http1.1 is for requests and responses.
+-http1.1 has slower response.
+-http1.1 has just encoding mechanism.
+-http2 has multiplexing mechanism.
+-http2 has quicker response.
+-http2 requires https for security concerned.
+2. http version history?
+-http means hyper text transfer protocol.
+-http is most widely used and adopted in between client and server.
+3. List 5 difference between Browser JS(console) vs Nodejs?
+-js is a programming language.
+-js run only in browsers.
+-js used in client-side.
+-js can add html and able to play with dom.
+-js upgraded from ecma script.
+-nodejs is a run-time envoronment.
+-nodejs can run outside browser.
+-nodejs used in server side.
+-nodejs we can't add html tags.
+-nodejs can be written c,c++ and javascript.
+4. what happens when you type a URL in the address bar in the browser?
+-it check the IP address and opens the resources of that page like text,image and videos etc., 
+ 
